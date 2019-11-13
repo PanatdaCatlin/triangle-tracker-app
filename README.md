@@ -64,7 +64,7 @@ To install Node on other systems, go to the Node website, then download and inst
 
 ## Usage
 
-```javascripts
+```bash
 From root directory
 
 npm install
@@ -81,13 +81,14 @@ Open a web browser and go to http://localhost:8080/.
 
 To run tests
 
-```javascripts
+```bash
 From root directory
 
 npm install
 npm run build
 npm test 
 ```
+
 ## Technologies Used
 
 ```
@@ -95,12 +96,12 @@ npm test
 * jQuery
 * Bootstrap
 * HTML
-* Bootstrap
 * ESLint
 * Babel
-* webpack
+* Webpack
 * Npm
 * Jest
+
 ```
 
 
